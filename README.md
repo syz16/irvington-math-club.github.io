@@ -1,10 +1,10 @@
 # Paper for Jekyll
-A new material design utilising theme for your Jekyll blog. Built on [Material Design Lite](http://www.getmdl.io/).
+A new material design utilising theme for your Jekyll blog. Built on [Material Design Lite](https://www.getmdl.io/).
 
 ![screenshot](assets/screenshots/mockup.jpg)
 
 ## Demo
- [dbtek.github.io/paper-demo](http://dbtek.github.io/paper-demo)
+ [dbtek.github.io/paper-demo](https://dbtek.github.io/paper-demo)
 
 ### Batteries Included
 There are many cool features bundled with Paper such as:
@@ -39,4 +39,4 @@ Ismail Demirbilek
 [@dbtek](https://twitter.com/dbtek)
 
 ### License
-[MIT](http://opensource.org/licenses/MIT)
+[MIT](https://opensource.org/licenses/MIT)
