@@ -2,6 +2,7 @@
 layout: page
 title: Edit
 permalink: /edit
+unlisted: true
 ---
 Conveniently edit on StackEdit using the following bookmarklets. Drag them to your bookmarks bar.
 

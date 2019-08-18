@@ -31,7 +31,9 @@
       <a class="mdl-navigation__link" href="{{ site.baseurl }}{{ site.url }}">Home</a>
       {% for page in site.pages %}
         {% if page.title %}
+        {% unless page.unlisted %}
           <a class="mdl-navigation__link" href="{{ page.url | replace_first: '/', '' | prepend: '/' | prepend: site.baseurl | prepend: site.url }}">{{ page.title }}</a>
+        {% endunless %}
         {% endif %}
       {% endfor %}
     </nav>
@@ -51,6 +53,7 @@
       Home
     </a>
     {% for page in site.pages %}
+    {% unless page.unlisted %}
       {% if page.title %}
       <a class="mdl-navigation__link" href="{{ page.url | replace_first: '/', '' | prepend: "/" | prepend: site.baseurl | prepend: site.url }}">
         {% if page.icon %}
@@ -59,6 +62,7 @@
         {{ page.title }}
       </a>
       {% endif %}
+    {% endunless %}
     {% endfor %}
     <div class="mdl-layout-spacer"></div>
     <a class="mdl-navigation__link" href="https://github.com/dbtek/paper">

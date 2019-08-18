@@ -4,12 +4,19 @@
   {% assign all_pages = site.posts | concat: site.html_pages %}
 
   {% for post in all_pages %}
+    {% unless post.unlisted %}
     {
       "title"    : "{{ post.title | escape }}",
       "category" : "{{ post.category }}",
       "tags"     : "{{ post.tags | join: ', ' }}",
       "url"      : "{{ post.url }}",
       "date"     : "{{ post.date }}"
-    } {% unless forloop.last %},{% endunless %}
+    }
+    {% unless forloop.last %}
+      {% unless all_pages[forloop.index+1].unlisted %}
+        ,
+      {% endunless %}
+    {% endunless %}
+    {% endunless %}
   {% endfor %}
 ]
