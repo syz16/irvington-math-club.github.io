@@ -14,7 +14,7 @@ Conveniently edit on StackEdit using the following bookmarklets. Drag them to yo
 
 To edit, visit the [Stack Edit App](https://stackedit.io/app#).
 
-Click the <kbd>Save Post</kbd> bookmarklet twice to link StackEdit to your GitHub Account. Click <kbd>OK</kbd> then sign in or create a GitHub account to link it. Tell an organization admin (the person who is currently running the site) your username so they can add you to the organization to give you write access to the website.
+Click the <kbd>[Save Post]</kbd> bookmarklet twice to link StackEdit to your GitHub Account. Click <kbd>OK</kbd> then sign in or create a GitHub account to link it. Tell an organization admin (the person who is currently running the site) your username so they can add you to the organization to give you write access to the website.
 
 Once the admin confirms that you have write access, you can edit the website.
 
