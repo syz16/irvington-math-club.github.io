@@ -36,9 +36,9 @@ github_username: irvington-math-club
 # drawer theming
 drawer:
   text_color:       'grey-600'
-  header_color:     'blue-500'
+  header_color:     'indigo-500'
   navigation_color: 'grey-200'
 # footer theming
 footer:
-  text_color: 'blue-grey-200'
-  color: 'blue-grey-600'
+  text_color: 'indigo-grey-200'
+  color: 'indigo-grey-600'
