@@ -5,8 +5,10 @@ permalink: /about/
 icon: info_outline
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Irvington Math Club aims to provide students opportunities to explore different
+facets of math through lectures, activities, and competitions to strengthen
+students' mathematical capabilities.
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+We meet weekly on Wednesdays.
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+Feel free to contact irvingtonmathclub@gmail.com for any questions.
