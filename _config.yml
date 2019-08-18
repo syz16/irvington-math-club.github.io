@@ -15,7 +15,9 @@ plugins:
   - jekyll-coffeescript
   - jekyll-redirect-from
 
-include: ["_redirects"]
+include:
+  - _redirects
+  - _pages
 
 # comments
 disqus: # add disqus shortname here
