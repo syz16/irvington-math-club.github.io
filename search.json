@@ -1,7 +1,9 @@
 ---
 ---
 [
-  {% for post in site.posts %}
+  {% assign all_pages = site.posts | concat: site.html_pages %}
+
+  {% for post in all_pages %}
     {
       "title"    : "{{ post.title | escape }}",
       "category" : "{{ post.category }}",
