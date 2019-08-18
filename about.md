@@ -12,3 +12,7 @@ students' mathematical capabilities.
 We meet weekly on Wednesdays.
 
 Feel free to contact irvingtonmathclub@gmail.com for any questions.
+
+### Calendar
+
+{% include calendar.html %}

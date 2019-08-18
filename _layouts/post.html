@@ -42,6 +42,11 @@ layout: default
   </header>
   <article>
     {{ content }}
+    {% unless page.event == empty %}
+      <a target="_blank" href="{{ page.event }}">
+        Add event to calendar.
+      </a>
+    {% endunless %}
   </article>
 
   <div class="tags">
