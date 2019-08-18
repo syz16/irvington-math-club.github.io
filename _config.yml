@@ -10,7 +10,12 @@ markdown: kramdown
 paginate: 5 # pagination based on number of posts
 paginate_path: "page/:num"
 highlighter: pygments
-gems: [jekyll-paginate, jekyll-coffeescript]
+plugins:
+  - jekyll-paginate
+  - jekyll-coffeescript
+  - jekyll-redirect-from
+
+include: ["_redirects"]
 
 # comments
 disqus: # add disqus shortname here
