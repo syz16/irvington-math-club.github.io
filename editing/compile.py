@@ -12,7 +12,7 @@ def minify(js):
 def bookmarklet(code, name="Bookmarklet"):
     minified = minify(code)
     escaped = urllib.parse.quote(minified)
-    return "<a href='javascript:%s'>%s</a>"%(escaped, name)
+    return "<kbd><a href='javascript:%s'>%s</a></kbd>"%(escaped, name)
 
 with open("get_path_bookmarklet.js", "r") as f:
     contents = f.read()

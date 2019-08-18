@@ -32,7 +32,7 @@ clickSidebarButton(/Synchronize/i)
 
 repoTextURL = "github.com/irvington-math-club/irvington-math-club.github.io";
 
-function setRepoAndPath(pathName, cursorPos) {
+function setRepoAndPath(pathName, cursorStart, cursorEnd) {
     repoURL = waitForElementToDisplay("[error=repoUrl] input", 50)
     path = waitForElementToDisplay("[error=path] input", 50)
     Promise.all([repoURL, path]).then(function(x) {
@@ -45,7 +45,7 @@ function setRepoAndPath(pathName, cursorPos) {
           if (!moved) {
               path.value = pathName;
               path.focus();
-              path.setSelectionRange(cursorPos, cursorPos);
+              path.setSelectionRange(cursorStart, cursorEnd || cursorStart);
               moved = !moved;
           }
       })
@@ -63,7 +63,7 @@ if (clickSidebarButton(/Save on GitHub/i)) {
 
 // ######## Open ########
 if (clickSidebarButton(/Open from Github/i)) {
-  setRepoAndPath("_posts/", 7)
+  setRepoAndPath("_posts/", 0, 7)
 } else {
     clickSidebarButton(/Add GitHub account/i)
 }
