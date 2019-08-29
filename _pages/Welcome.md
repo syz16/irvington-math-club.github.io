@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Welcome.md
+title: Welcome
 permalink: /Welcome
 icon: info_outline
 ---
