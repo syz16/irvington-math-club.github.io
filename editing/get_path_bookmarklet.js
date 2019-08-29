@@ -20,6 +20,9 @@ function copyToClipboard(text) {
     }
 }
 
-let url = window.location.pathname;
-let path = url.match(/\/(blob|edit)\/master\/(.*)/)[2];
+if (!url) {
+  var url, path;
+}
+url = window.location.pathname;
+path = url.match(/\/(blob|edit)\/master\/(.*)/)[2];
 copyToClipboard(path)
