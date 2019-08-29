@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Welcome
-permalink: /about
+permalink: /aboutWelcome
 icon: info_outline
 ---
 
@@ -15,4 +15,8 @@ Feel free to contact irvingtonmathclub@gmail.com for any questions.
 
 ### Calendar
 
-{% include calendar.html %}
+{% include calendar.html %}welcome bois, we do math
+
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbNTEzNzA2MTA5XX0=
+-->
