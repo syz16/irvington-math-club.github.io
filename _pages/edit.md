@@ -10,6 +10,8 @@ StackEdit is trash, let's not use that anymore
 
 Go to [the repository](https://github.com/irvington-math-club/irvington-math-club.github.io) to edit.
 
+You have to make a GitHub account before you can make any edits. Tell the account name to the primary website admin, then they'll give you edit access.
+
 ## Posts
 
 Posts are individual ... posts ... tagged with a date and category
