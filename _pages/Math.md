@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Math1
-permalink: /Math1
+title: Math
+permalink: /Math
 icon: info_outline
 ---
 HI
