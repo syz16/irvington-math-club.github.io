@@ -21,5 +21,5 @@ function copyToClipboard(text) {
 }
 
 let url = window.location.pathname;
-let path = url.match(/\/(blob|edit)\/master\/(.*)/)[1];
+let path = url.match(/\/(blob|edit)\/master\/(.*)/)[2];
 copyToClipboard(path)
