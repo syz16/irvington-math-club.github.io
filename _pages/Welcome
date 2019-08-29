@@ -1,22 +1,11 @@
 ---
 layout: page
 title: Welcome
-permalink: /aboutWelcome
+permalink: /Welcome
 icon: info_outline
 ---
 
-Irvington Math Club aims to provide students opportunities to explore different
-facets of math through lectures, activities, and competitions to strengthen
-students' mathematical capabilities.
-
-We meet weekly on Wednesdays.
-
-Feel free to contact irvingtonmathclub@gmail.com for any questions.
-
-### Calendar
-
-{% include calendar.html %}welcome bois, we do math
-
+welcome bois, we do math
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTEzNzA2MTA5XX0=
+eyJoaXN0b3J5IjpbLTEwOTUyMDUwMDNdfQ==
 -->
