@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Welcome
-permalink: /Welcome
+permalink: /welcome
 icon: info_outline
 ---
 
