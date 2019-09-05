@@ -1,7 +1,7 @@
 # Irvington Math Club Website
 
-Based on the jekyll theme [Paper](https://github.com/dbtek/paper).
+Based on the Jekyll theme [Paper](https://github.com/dbtek/paper).
 
-Available at [irvington-math-club.github.io](irvington-math-club.github.io) or [git.io/ihsmath](git.io/ihsmath).
+Available at [irvingtonmath.club](irvingtonmath.club).
 
-Check [editing instructions](http://irvington-math-club.github.io/edit) to edit through the StackEdit markdown editor.
+Check [editing instructions](http://irvingtonmath.club/edit) to get an intro to editing via GitHub.
