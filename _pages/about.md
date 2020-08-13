@@ -5,11 +5,8 @@ permalink: /about
 icon: info_outline
 ---
 
-Irvington Math Club aims to provide students opportunities to explore different
-facets of math through lectures, activities, and competitions to strengthen
-students' mathematical capabilities.
+Irvington Math Club aims to provide students opportunities to explore different facets of math through lectures, activities, and competitions to strengthen students' mathematical capabilities.
 
-We meet weekly on Wednesdays.
 
 Feel free to contact irvingtonmathclub@gmail.com for any questions.
 
