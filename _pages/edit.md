@@ -6,15 +6,13 @@ unlisted: true
 ---
 We write the content for the pages in Markdown. It is mostly just plain text. You will have to [learn Markdown](https://www.markdowntutorial.com/) in order to write content for the site.
 
-StackEdit is trash, let's not use that anymore
-
 Go to [the repository](https://github.com/irvington-math-club/irvington-math-club.github.io) to edit.
 
-You have to make a GitHub account before you can make any edits. Tell the account name to the primary website admin, then they'll give you edit access.
+You have to make a GitHub account before you can make any edits. Tell your account name to the primary website admin, then they'll give you edit access.
 
 ## Posts
 
-Posts are individual ... posts ... tagged with a date and category
+Posts are individual posts tagged with a date and category
 
 ### Editing an existing post
 
@@ -63,3 +61,11 @@ Go to the [list of pages](https://github.com/irvington-math-club/irvington-math-
 
   1. No date here, name it like `"filename.md"` with a `.md` extension.
   2. Copy in the contents of [a good page](https://github.com/irvington-math-club/irvington-math-club.github.io/edit/master/_pages/edit.md) then follow the editing instructions above.
+
+### Advanced work
+
+For more complex work, clone the repository to your computer and make edits locally. To see live changes, use
+
+```
+bundle exec jekyll serve
+```
