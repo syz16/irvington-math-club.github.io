@@ -62,6 +62,17 @@ Go to the [list of pages](https://github.com/irvington-math-club/irvington-math-
   1. No date here, name it like `"filename.md"` with a `.md` extension.
   2. Copy in the contents of [a good page](https://github.com/irvington-math-club/irvington-math-club.github.io/edit/master/_pages/edit.md) then follow the editing instructions above.
 
+## Redirects
+
+A redirect works like a Tinyurl and automatically redirects to another page. Presently, irvingtonmath.club/repo redirects to this GitHub repository.
+
+Simply:
+
+ - duplicate an [existing redirect](https://github.com/irvington-math-club/irvington-math-club.github.io/tree/master/_redirects).
+ - edit the name of the file (must include `.html` at the end)
+ - edit the `permalink` field, e.g. `/repo` would be accessed as `irvingtonmath.club/repo`. This should meet standards for a URL, such as no spaces, and it should not contain another forward slash (`/`).
+ - edit the `redirect_to` field with the desired URL (including `http(s)://`)
+
 ### Advanced work
 
 For more complex work, clone the repository to your computer and make edits locally. To see live changes, use
@@ -69,3 +80,5 @@ For more complex work, clone the repository to your computer and make edits loca
 ```
 bundle exec jekyll serve
 ```
+
+You will need to [set up Jekyll](https://jekyllrb.com/docs/) first.
