@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Join Irvington Math Club
+title: Join
 permalink: /join
-icon: info_outline
+icon: group
 ---
 
 Great! You're considering joining Irvington Math Club. Joining comes with *no obligations*; it merely means that we will send you updates directly, so you don't have to check this website.
