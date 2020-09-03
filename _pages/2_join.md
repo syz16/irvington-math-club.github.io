@@ -14,6 +14,6 @@ There are two ways to join:
 
 If you filled out a Google Form recently to join, you will be added to the Google Group.
 
-In addition, we recommend attending our [intro meeting](/events/2020/08/13/intro-meeting.html) on September 8th at 3pm.
+In addition, we recommend attending our [intro meeting](/events/2020/08/23/intro-meeting.html) on September 8th at 3pm.
 
 We also have an [Instagram](https://www.instagram.com/ihsmath/), but we may not send all updates on it.
