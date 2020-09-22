@@ -14,7 +14,7 @@ This year you can sign up for our lunch contests through a simple online process
 3. Before the contest, you will receive an email from Irvington Math Club consisting of more directions including the link for our Google Classroom. Once you receive the email, read through it carefully and follow any directions, in addition to joining the Google Classroom. Then, you’re done!!!
 4. On the day of the competition, you will have to submit your answers on one site as well as submit your work on Google Classroom.
 
-We suggest that you add [irvingtonmath.club/calendar](irvingtonmath.club/calendar), our math club calendar, to your Google Calendar so you know when our events are. 
+We suggest that you add [irvingtonmath.club/calendar](http://irvingtonmath.club/calendar), our math club calendar, to your Google Calendar so you know when our events are. 
 
 Note that registration for math contests ends on October 7th so sign up soon.
 
