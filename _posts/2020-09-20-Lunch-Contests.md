@@ -2,7 +2,7 @@
 layout: post
 title:  "Lunch Contests"
 date:   2020-09-20 22:37:20
-categories: Events
+categories: Announcements
 ---
 
 Do you see that extra credit in math class saving you from a long lecture from your parents? Want a chance to meet some other brilliant students at school and solve cool math problems? Then here’s how to do so. 
