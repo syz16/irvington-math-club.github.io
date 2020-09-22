@@ -2,7 +2,7 @@
 layout: post
 title:  "Countdown"
 date:   2020-09-09 22:37:20
-categories: Events
+categories: Meetings
 ---
 
 Hey Math Clubbers,
