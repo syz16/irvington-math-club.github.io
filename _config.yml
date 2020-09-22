@@ -19,6 +19,8 @@ include:
   - _redirects
   - _pages
 
+permalink: /:categories/:title
+
 # comments
 disqus: # add disqus shortname here
 
