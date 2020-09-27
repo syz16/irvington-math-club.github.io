@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Contests"
+title:  "HMMT Registration"
 date:   2020-08-23 22:37:20
 categories: Events
 ---
