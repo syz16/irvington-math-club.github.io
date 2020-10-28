@@ -14,3 +14,4 @@ If you get an "Access Denied" error, try opening the file outside of your school
 3. 9/30 [Complex Numbers + Roots of Unity](https://drive.google.com/file/d/1XYmwSG_3Gc_QEDeOFIqrliuTD4BrsEmE/view?usp=sharing)
 4. 10/7 [Vieta's Formulas](https://drive.google.com/file/d/1qTNJNdxNfy-WSbSjWgtKcsATR5LdifOK/view?usp=sharing)
 5. 10/14 [Typing Math](https://drive.google.com/file/d/1-YcC3uJST7BAWvJUVyPzMUXOYv2JPjcc/view?usp=sharing)
+6. 10/28 [October Contest Review](https://drive.google.com/file/d/1cwWPIyq-HOfL8rFsSh0X3ttmawZXNRhK/view?usp=sharing) (log in to FUSD account to open) 
