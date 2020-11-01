@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "10/28 Meeting Annoucements + Survey"
-date:   2020-08-23 22:37:20
+date:   2020-10-28 22:37:20
 categories: Events
 ---
 Hello everyone,
