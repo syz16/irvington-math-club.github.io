@@ -15,3 +15,4 @@ If you get an "Access Denied" error, try opening the file outside of your school
 4. 10/7 [Vieta's Formulas](https://drive.google.com/file/d/1qTNJNdxNfy-WSbSjWgtKcsATR5LdifOK/view?usp=sharing)
 5. 10/14 [Typing Math](https://drive.google.com/file/d/1-YcC3uJST7BAWvJUVyPzMUXOYv2JPjcc/view?usp=sharing)
 6. 10/28 [October Contest Review](https://drive.google.com/file/d/1cwWPIyq-HOfL8rFsSh0X3ttmawZXNRhK/view?usp=sharing) (log in to FUSD account to open) 
+7. 11/04 [Pascal's Triangle](https://drive.google.com/file/d/1h7hjueiF1Aw_4sMw0CjTEwubje-HqCIe/view?usp=sharing)
