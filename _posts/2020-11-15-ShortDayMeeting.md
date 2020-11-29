@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "11/18 Parent-Teacher Confrences Meeting"
+title:  "11/18 Parent-Teacher Conferences Meeting"
 date:   2020-11-18 22:37:20
 categories: Events
 ---
