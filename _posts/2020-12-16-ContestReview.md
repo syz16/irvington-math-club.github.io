@@ -10,7 +10,7 @@ This meeting, we will review the recent CAML, ASMA, Math Madness, and At-Pac con
 If you have any specific questions you’d like to go over, please enter them in the form at [irvingtonmath.club/mathcontestreviewform](http://irvingtonmath.club/mathcontestreviewform). The form includes a document with a list of all of the questions.
 
 <b>Lunch Contest and AMC Registration 📈 </b>   
-As a reminder, we have reopened lunch contests for 2021. On ihsvikings.org/shop/math-club, you can register for the remainder of CAML, ASMA, and At-Pac at a discounted price, and take the contests after January 1st.
+As a reminder, we have reopened lunch contests for 2021. On [ihsvikings.org/shop/math-club](ihsvikings.org/shop/math-club), you can register for the remainder of CAML, ASMA, and At-Pac at a discounted price, and take the contests after January 1st.
 CAML: $1.50
 ASMA: $2.00
 AT-PAC: $2.00
