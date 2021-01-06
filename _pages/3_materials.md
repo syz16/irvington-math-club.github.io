@@ -18,3 +18,4 @@ If you get an "Access Denied" error, try opening the file outside of your school
 7. 11/04 [Pascal's Triangle](https://drive.google.com/file/d/1h7hjueiF1Aw_4sMw0CjTEwubje-HqCIe/view?usp=sharing)
 8. 12/02 [Creative Trigonometry Problem Solving](https://drive.google.com/file/d/1KUebstkd3ioG5u9rZZRAkSmjUern20Dm/view?usp=sharing)
 9. 12/16 [Math Contest Review 2](https://drive.google.com/file/d/1hiyAmny5fMSPZYeIXkczChJmGI1wFsIS/view?usp=sharing)
+10. 01/06 [Power of a Point](https://drive.google.com/file/d/1v6C4ypBqvMSxb-fOfKVuqpNDlTpU-iQM/view?usp=sharing)
