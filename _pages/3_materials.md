@@ -21,4 +21,4 @@ If you get an "Access Denied" error, try opening the file outside of your school
 10. 01/06 [Power of a Point](https://drive.google.com/file/d/1v6C4ypBqvMSxb-fOfKVuqpNDlTpU-iQM/view?usp=sharing)
 11. 01/13 [Triangles](https://drive.google.com/file/d/1GQcMYlDJAnCY8z4lBRt26vCCjWW5H4S0/view?usp=sharing)
 12. 01/20 [Modular Arithmetic](https://drive.google.com/file/d/1ct5mIQmuacOnXU2BKvGSJPsF1ouQXQY7/view?usp=sharing)
-13. 02/04 [AMC Tips and Tricks] (https://drive.google.com/file/d/0B6EqGkZiy2-1THZMZ0RtYmhsb0FPbldjSzZwRFZCOEJlMHE0/view?usp=sharing)
+13. 02/04 [AMC Tips and Tricks](https://drive.google.com/file/d/0B6EqGkZiy2-1THZMZ0RtYmhsb0FPbldjSzZwRFZCOEJlMHE0/view?usp=sharing)
