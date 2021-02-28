@@ -1,3 +1,9 @@
+---
+layout: post
+title:  "2/24 Meeting + Guts Round!"
+date:   2021-3-03 22:37:20
+categories: Events
+---
 **3/3 Meeting 😎**
 
 This Wednesday, we’ll be reviewing a document prepared by Ananya that covers many major topics that you’ll need to know if you qualify for the AIME! Make sure to be there this Wednesday!
