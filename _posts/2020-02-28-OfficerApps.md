@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "2/24 Meeting + Guts Round!"
+title:  "3/03 Meeting + Officer Applications!"
 date:   2021-3-03 22:37:20
 categories: Events
 ---
@@ -10,7 +10,7 @@ This Wednesday, we’ll be reviewing a document prepared by Ananya that covers m
 
 **Stanford Math Tournament Interest Form ➕➖➗**
 
-It’s that time of year again folks! If you are interested in competing at the annual SMT, please fill out this form by March 15th: http://irvingtonmath.club/smtinterestform
+It’s that time of year again folks! If you are interested in competing at the annual SMT, please fill out this form by March 15th: [http://irvingtonmath.club/smtinterestform]
 
 Keep in mind that the SMT will cost $10 per student, but you will only need to pay if you have been accepted! For more information, visit: https://sumo.stanford.edu/smt/
 
