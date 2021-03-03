@@ -24,3 +24,4 @@ If you get an "Access Denied" error, try opening the file outside of your school
 13. 02/04 [AMC Tips and Tricks](https://drive.google.com/file/d/0B6EqGkZiy2-1THZMZ0RtYmhsb0FPbldjSzZwRFZCOEJlMHE0/view?usp=sharing)
 14. 02/24 [Math Contest Review 3](https://drive.google.com/file/d/1gNPg2bGuRBski3yV8ZMM9esYtM7unMJi/view)
 15. 02/25 [Distance Estimations in Space (feat. ASTRO club)](https://drive.google.com/file/d/1ypyN_ocE1PDDSfH2VllcqSDBltDVrnzO/view?usp=sharing)
+16. 03/03 [AIME Tips](https://drive.google.com/file/d/1joSOr6PO4LVqoaiP7QoeveNqLwKAqRHU/view?usp=sharing)
