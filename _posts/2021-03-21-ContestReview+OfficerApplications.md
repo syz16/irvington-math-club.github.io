@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "3/24 Contesr Review + Officer Applications Reminder"
+title:  "3/24 Contest Review + Officer Applications Reminder"
 date:   2021-3-24 22:37:20
 categories: Events
 ---
