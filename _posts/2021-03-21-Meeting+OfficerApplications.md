@@ -1,3 +1,9 @@
+---
+layout: post
+title:  "3/31 Meeting + Officer Applications Reminder"
+date:   2021-3-31 22:37:20
+categories: Events
+---
 **Wednesday Meeting 🌸**
 Join us this Wednesday for the last meeting before Spring Break! Shivansh will be extensively explaining Euler’s formula, as well as providing use cases for it, all with a little bit of April Fools comedy intertwined 😉😉!
 
