@@ -7,8 +7,6 @@ categories: Events
 
 **5/5 Meeting: Generating Functions and Math Bowl Info**
 
-G’day mates,
-
 **This Wednesday Meeting (5/5):**
 Join us this Wednesday for a lecture on Generating Functions by Ananya! Generating functions are one bridge between algebra and combinatorics, and they let you easily solve problems such as finding ways to relabel a pair of dice such that the distributions of their sum remains the same as standard dice 😀.
 
@@ -23,6 +21,3 @@ The bowl will be broken into three levels (Algebra I / Geometry; Algebra II / Pr
 
 **Last Wednesday’s Recording 🎥:**
 Did you miss the legendary Evan Chen lecture last meeting? No worries! You can find the recording of the lecture on Irvington Math Club’s materials page: http://irvingtonmath.club/materials.
-
-Cheerio,
-The Irvington Math Club Officer Team
