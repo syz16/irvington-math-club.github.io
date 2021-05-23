@@ -31,3 +31,4 @@ If you get an "Access Denied" error, try opening the file outside of your school
 20. 04/14 [Graph Theory](https://drive.google.com/file/d/1TgWj_ilmrOc3D5_viGQ1YLLJAWC98qw2/view?usp=sharing)
 21. 04/28 [Evan Chen Lecture Recording](https://drive.google.com/file/d/1euEC5KGPUx7CIjOAUuThbj9VPcniMDCw/view)
 22. 05/05 [Generating Functions](https://drive.google.com/file/d/1MjzXrx-WMeJSxLUh7tF070jfzX9Ia80r/view?usp=sharing)
+23. 05/26 [Math Bowl Questions and Solutions](https://drive.google.com/drive/folders/1sqGKK7PJAcPQS7eraEwbDTAk4MZCT2Y8?usp=sharing)
