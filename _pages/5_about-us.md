@@ -9,5 +9,9 @@ Welcome to Irvington Math Club! Below is our officer team along with their posit
 
 Feel free to ping us if you have any questions!
 
-<img src="./assets/images/AnanyaHeadshotIMC.JPG" alt="Ananya Kulshrestha" width="400" align="center"/>
+<table cellpadding="0" cellspacing="0" border="0" width="100%">
+<tr><td align="center">
+<img ssrc="./assets/images/AnanyaHeadshotIMC.JPG" alt="Ananya Kulshrestha" width="400">
+</td></tr>
+</table>
 
