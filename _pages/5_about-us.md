@@ -4,14 +4,6 @@ title: About Us
 permalink: /about-us
 icon: info_outline
 ---
-<tr align="center">
-  <td >
-    <p> Welcome to Irvington Math Club! Below is our officer team along with their positions and contect information.
-
-Feel free to ping us if you have any questions!
-    </p>
-  </td>
-</tr>
 Welcome to Irvington Math Club! Below is our officer team along with their positions and contect information.
 
 Feel free to ping us if you have any questions!
