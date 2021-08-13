@@ -11,4 +11,4 @@ Feel free to ping us if you have any questions!
 
 <img src="./assets/images/AnanyaHeadshotIMC.JPG" alt="Ananya Kulshrestha" width="100"/>
 
-<>![Ananya Kulshrestha]( ./assets/images/AnanyaHeadshotIMC.JPG "Ananya Kulshrestha")
+[comment]: <> ![Ananya Kulshrestha]( ./assets/images/AnanyaHeadshotIMC.JPG "Ananya Kulshrestha")
