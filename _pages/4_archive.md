@@ -9,7 +9,8 @@ Here are our old lectures and events, so students who missed meetings can have e
 
 If you get an "Access Denied" error, try opening the file outside of your school account, such as in a guest window.
 
-**2021**
+**2020-2021**
+
 1. 9/09 [Intro Meeting Slides](https://drive.google.com/file/d/153Unq3jsodnlcPZe5AORtbfQWt5DrGEX/view?usp=sharing)
 2. 9/23 [Young Tableaux](https://drive.google.com/file/d/1HLauJrhsGmtjEVsCqzOPjtNZqP-NyJE_/view?usp=sharing)
 3. 9/30 [Complex Numbers + Roots of Unity](https://drive.google.com/file/d/1XYmwSG_3Gc_QEDeOFIqrliuTD4BrsEmE/view?usp=sharing)
@@ -34,5 +35,28 @@ If you get an "Access Denied" error, try opening the file outside of your school
 22. 05/05 [Generating Functions](https://drive.google.com/file/d/1MjzXrx-WMeJSxLUh7tF070jfzX9Ia80r/view?usp=sharing)
 23. 05/26 [Math Bowl Questions and Solutions](https://drive.google.com/drive/folders/1sqGKK7PJAcPQS7eraEwbDTAk4MZCT2Y8?usp=sharing)
 
-**2020 and before**
-1. 
+**2019-2020 and before**
+
+1. 03/20/2019 [Bases](https://drive.google.com/file/d/1tUpfnGPa5x-BVO3lr_R58dFxoX_49S82/view?usp=sharing)
+2. 09/2019 [Ceva and Menalaus](https://drive.google.com/file/d/10YgHvyeESNkOv8Hhf9B8KOWfz5Sx8x18/view?usp=sharing)
+3. 03/27/2019 [Counting](https://drive.google.com/file/d/13lx9pIw3d0IHnMpVo7MgM3j5so4CI7fb/view?usp=sharing)
+4. 03/04/2019 [Diophantine Equations](https://drive.google.com/file/d/1mIbHaJpQjLSjKc1t4e5j9UMGw4PnLhmM/view?usp=sharing)
+5. 04/10/2019 [Geomteric Probability](https://drive.google.com/file/d/1eUeCGb0nibBvOtgY9foHmAAogm27RQNk/view?usp=sharing)
+6. 04/12/2019 [Geometric Probability Solutions](https://drive.google.com/file/d/1UZuFXuJqYlW9NeDH80XDDCTFg774TSPu/view?usp=sharing)
+7. 10/31/2018 [Halloween Round](https://drive.google.com/file/d/1QzICzPjgmDFdK07ZupMKbYGsasTj-QDV/view?usp=sharing)
+8. 03/06/2019 [Infinite Descent](https://drive.google.com/file/d/15rEvnOfYNY919ECgYAzIkl-oklW6bz41/view?usp=sharing)
+9. 09/2017 [Complex Numbers](https://drive.google.com/file/d/1K7SSjwXGI6Wur1WCFsNHGw7pgVYpISLJ/view?usp=sharing)
+10. Undated [Logarithms](https://drive.google.com/file/d/10RRAndmSjH30td0qWfkiL9tHbWG3lH5h/view?usp=sharing)
+11. 10/2017 [Mass Points](https://drive.google.com/file/d/1ECr40MuE52kwa0554gBZJs1qVJJ9EwEF/view?usp=sharing)
+12. 11/08/2018 [QM-AM-GM-HM](https://drive.google.com/file/d/1IrZ9oBmvXmVCxwV_ndbfaQrd0-DS_m4H/view?usp=sharing)
+13. 11/29/2018 [QM-AM-GM-HM Answers](https://drive.google.com/file/d/1vfFAq9KA08Fq6e3A48DsykmEYzfbSpSc/view?usp=sharing)
+14. 04/17/2019 [Special Functions](https://drive.google.com/file/d/1kp00Q2bvPrP4feL49swy6ZlZ0XKpKntm/view?usp=sharing)
+15. 10/22/2019 [Combinatorics](https://drive.google.com/file/d/1GlliSrJC8AszwjruD2lyvtaxH5IV_4ZO/view?usp=sharing)
+16. 10/22/2019 [Combinatorics Solutions](https://drive.google.com/file/d/1aym2EGAxbeUM5jNy51Pyt2kAbzv9Ohe-/view?usp=sharing)
+17. 11/06/2019 [Functional Equations](https://drive.google.com/file/d/1hvjPEcQYx0vytsEBgzX1vK7w9b321H18/view?usp=sharing)
+18. 11/06/2019 [Functional Equations Solutions](https://drive.google.com/file/d/1C8Zqaz457_u7NDQOUQJ8ApdwUBnbNRUv/view?usp=sharing)
+19. 12/10/2019 [Graph Theory Introductions](https://drive.google.com/file/d/1WewV0qr3YojDFF32TsGLJY5jo-4ewh_w/view?usp=sharing)
+20. 01/08/2020 [Graph Theory Planarity](https://drive.google.com/file/d/1YI1Tau4YV83BD8nUKGbgtW6nvNYOWpKl/view?usp=sharing)
+21. 01/14/2020 [Informaton Theory](https://drive.google.com/file/d/1o-JabGWBxAG_bk-whTHoUl1bM3Yo4Qoe/view?usp=sharing)
+22. 10/02/2019 [Modular Arithmetic](https://drive.google.com/file/d/1zHR9ivQ6Kz0rUsUhWVWmmNdKSnCpG6Gu/view?usp=sharing)
+23. 02/19/2020 [Triangle Areas](https://drive.google.com/file/d/1nqecQYNfpiCaVRHJraxzIoPzLfFzCqKv/view?usp=sharing)
