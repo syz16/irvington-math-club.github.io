@@ -9,6 +9,7 @@ Here are our old lectures and events, so students who missed meetings can have e
 
 If you get an "Access Denied" error, try opening the file outside of your school account, such as in a guest window.
 
+**2021**
 1. 9/09 [Intro Meeting Slides](https://drive.google.com/file/d/153Unq3jsodnlcPZe5AORtbfQWt5DrGEX/view?usp=sharing)
 2. 9/23 [Young Tableaux](https://drive.google.com/file/d/1HLauJrhsGmtjEVsCqzOPjtNZqP-NyJE_/view?usp=sharing)
 3. 9/30 [Complex Numbers + Roots of Unity](https://drive.google.com/file/d/1XYmwSG_3Gc_QEDeOFIqrliuTD4BrsEmE/view?usp=sharing)
@@ -32,3 +33,6 @@ If you get an "Access Denied" error, try opening the file outside of your school
 21. 04/28 [Evan Chen Lecture Recording](https://drive.google.com/file/d/1euEC5KGPUx7CIjOAUuThbj9VPcniMDCw/view)
 22. 05/05 [Generating Functions](https://drive.google.com/file/d/1MjzXrx-WMeJSxLUh7tF070jfzX9Ia80r/view?usp=sharing)
 23. 05/26 [Math Bowl Questions and Solutions](https://drive.google.com/drive/folders/1sqGKK7PJAcPQS7eraEwbDTAk4MZCT2Y8?usp=sharing)
+
+**2020 and before**
+1. 
