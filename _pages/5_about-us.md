@@ -80,7 +80,7 @@ Feel free to ping us if you have any questions!
 <table cellpadding="0" cellspacing="15x" border="0" width="100%" align="center">
   <tr align="center">
     <td><b> Princeton Liu (Treasurer)</b></td>
-    <td><b> Aaryan Rustagi (Treasurer)</b></td>
+    <td><b> Ojas Vatsyayan (Treasurer)</b></td>
   </tr>
   <tr align="center">
   <td>
