@@ -10,9 +10,9 @@ Feel free to ping us if you have any questions!
 
 <h4 align="center">Ananya Kulshrestha (Co-President)</h4>
 <table cellpadding="0" cellspacing="15x" border="0" width="100%" align="center">
-  <tr>
-    <th> align="center">Ananya Kulshrestha (Co-President)</th>
-    <th> align="center">Dhruv Gupta (Co-President)</th>
+  <tr align="center">
+    <th> Ananya Kulshrestha (Co-President)</th>
+    <th> Dhruv Gupta (Co-President)</th>
   </tr>
   <tr align="center">
   <td>
