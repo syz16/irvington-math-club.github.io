@@ -27,6 +27,7 @@ Feel free to ping us if you have any questions!
     <pre> <b>Contact:</b>
     Messenger - Ainu Parivar
     Discord - Ananya_K#9383
+    Instagram - N/A
     Email - kuttyanans@gmail.com </pre>
    </td>
     <td>
@@ -39,20 +40,37 @@ Feel free to ping us if you have any questions!
   </tr>
 </table>
 
+<font size="5" face="Roboto" >
 <table cellpadding="0" cellspacing="15x" border="0" width="100%" align="center">
-<tr align="center">
+  <tr align="center">
+    <td><b> Jieun Lim (Vice President)</b></td>
+    <td><b> Aaryan Rustagi (Vice President)</b></td>
+  </tr>
+  <tr align="center">
   <td>
-    <img src="./assets/images/DhruvHeadshotIMC.jpeg" alt="Dhruv Gupta" width="400" height="300">
+    <img src="./assets/images/JieunHeadshotIMC.jpeg" alt="Jieun Lim" width="400" height="300">
+  </td>
+  <td>
+    <img src="./assets/images/AaryanHeadshotIMC.jpeg" alt="Aaryan Rustagi" width="400" height="300">
   </td>
 </tr>
-  <tr align="center"><td>
+  <tr align="center">
+   <td>
     <pre> <b>Contact:</b>
-    Messenger - Dhruv Gupta
-    Discord - dg575#1038
+    Messenger - Jieun Lim
+    Discord - infinityparadox#8914
     Instagram - (To Be Filled)
-    Email - dhruv575@gmail.com </pre>
-    </td></tr>
-</table>
+    Email - jieunlim07@gmail.com </pre>
+    </td>
+    <td>
+    <pre> <b>Contact:</b>
+    Messenger - Aaryan Rustagi
+    Discord - Aaryan#3163
+    Instagram - (To Be Filled)
+    Email - rustagiaaryan@gmail.com </pre>
+    </td>
+  </tr>
+</table>  
 
 
 <h4 align="center">Jieun Lim (Vice President)</h4>
