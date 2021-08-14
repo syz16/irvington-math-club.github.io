@@ -24,16 +24,20 @@ Feel free to ping us if you have any questions!
 </tr>
   <tr align="center">
    <td>
-    <p> Messenger - Ainu Parivar</p>
-    <p> Discord - Ananya_K#9383</p>
-    <p> Instagram - N/A</p>
-    <p> Email - kuttyanans@gmail.com</p>
+    <pre>
+    Messenger - Ainu Parivar
+    Discord - Ananya_K#9383
+    Instagram - N/A
+    Email - kuttyanans@gmail.com
+    </pre>
    </td>
     <td>
-    <p> Messenger - Dhruv Gupta</p>
-    <p> Discord - dg575#1038</p>
-    <p> Instagram - (To Be Filled)</p>
-    <p> Email - dhruv575@gmail.com</p>
+    <pre> 
+    Messenger - Dhruv Gupta
+    Discord - dg575#1038
+    Instagram - (To Be Filled)
+    Email - dhruv575@gmail.com
+    </pre>
     </td>
   </tr>
 </table>
@@ -54,18 +58,110 @@ Feel free to ping us if you have any questions!
 </tr>
   <tr align="center">
    <td>
-    <pre> <b>Contact:</b>
+    <pre>
     Messenger - Jieun Lim
     Discord - infinityparadox#8914
     Instagram - (To Be Filled)
-    Email - jieunlim07@gmail.com </pre>
+    Email - jieunlim07@gmail.com 
+    </pre>
     </td>
     <td>
-    <pre> <b>Contact:</b>
+    <pre>
     Messenger - Aaryan Rustagi
     Discord - Aaryan#3163
     Instagram - (To Be Filled)
-    Email - rustagiaaryan@gmail.com </pre>
+    Email - rustagiaaryan@gmail.com 
+    </pre>
+    </td>
+  </tr>
+</table>  
+  
+<font size="5" face="Roboto" >
+<table cellpadding="0" cellspacing="15x" border="0" width="100%" align="center">
+  <tr align="center">
+    <td><b> Princeton Liu (Treasurer)</b></td>
+    <td><b> Aaryan Rustagi (Treasurer)</b></td>
+  </tr>
+  <tr align="center">
+  <td>
+    <img src="./assets/images/PrincetonHeadshotIMC.png" alt="Princeton Liu" width="400" height="300">
+  </td>
+  <td>
+    <img src="./assets/images/OjasHeadshotIMC.jpeg" alt="Ojas Vatsyayan" width="400" height="300">
+  </td>
+</tr>
+  <tr align="center">
+   <td>
+    <pre> 
+    Messenger - Priliu Liu
+    Discord - Priyi#3296
+    Instagram - (To Be Filled)
+    Email - hiprincetonliu@gmail.com 
+    </pre>
+    </td>
+    <td>
+    <pre>
+    Messenger - Ojas Vatsyayan
+    Discord - Ojas#4663
+    Instagram - (To Be Filled)
+    Email - ojasvatsyayan@gmail.com 
+    </pre>
+    </td>
+  </tr>
+</table>  
+  
+<font size="5" face="Roboto" >
+<table cellpadding="0" cellspacing="15x" border="0" width="100%" align="center">
+  <tr align="center">
+    <td><b> Akshaj Gupta (Secretary)</b></td>
+    <td><b> Prisha Jain (Secretary)</b></td>
+  </tr>
+  <tr align="center">
+  <td>
+    <img src="./assets/images/AkshajHeadshotIMC.png" alt="Akshaj Gupta" width="400" height="300">
+  </td>
+  <td>
+    <img src="./assets/images/PrishaHeadshotIMC.jpeg" alt="Prisha Jain" width="400" height="300">
+  </td>
+</tr>
+  <tr align="center">
+   <td>
+    <pre> 
+    Messenger - Akshaj Gupta
+    Discord - Akshaj#5315
+    Instagram - (To Be Filled)
+    Email - aksh8work@gmail.com 
+    </pre>
+    </td>
+    <td>
+    <pre>
+    Messenger - Prisha Jain
+    Discord - Prisha#8858
+    Instagram - (To Be Filled)
+    Email - prisha.chess@gmail.com
+    </pre>
+    </td>
+  </tr>
+</table>  
+  
+ <font size="5" face="Roboto" >
+<table cellpadding="0" cellspacing="15x" border="0" width="100%" align="center">
+  <tr align="center">
+    <td><b> Anoushka Iyer (Publicity)</b></td>
+  </tr>
+  <tr align="center">
+  <td>
+    <img src="./assets/images/AnoushkaHeadshotIMC.png" alt="Anoushka Iyer" width="400" height="300">
+  </td>
+</tr>
+  <tr align="center">
+   <td>
+    <pre> 
+    Messenger - Anoushka Iyer
+    Discord - Anoushka#7415
+    Instagram - (To Be Filled)
+    Email - anoushkasiyer@gmail.com
+    </pre>
     </td>
   </tr>
 </table>  
