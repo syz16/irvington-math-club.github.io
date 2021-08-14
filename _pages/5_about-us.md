@@ -10,11 +10,11 @@ Feel free to ping us if you have any questions!
 
 <table cellpadding="0" cellspacing="15x" border="0" width="100%" align="center">
 <tr align="center">
-  <td >
+  <td>
     <img src="./assets/images/AnanyaHeadshotIMC.JPG" alt="Ananya Kulshrestha" width="400">
   </td>
 </tr>
-  <tr align="center"><th>Ananya Kulshrestha (Co-President)</th></tr>
+  <tr align="center"><h1>Ananya Kulshrestha (Co-President)</h1></tr>
   <tr align="center"><td>
     <pre> <b>Contact:</b>
     Messenger - Ainu Parivar
