@@ -8,9 +8,9 @@ Welcome to Irvington Math Club! Below is our officer team along with their posit
 
 Feel free to ping us if you have any questions!
 
+<font size="5" face="Roboto" >
 <table cellpadding="0" cellspacing="15x" border="0" width="100%" align="center">
   <tr align="center">
-    <font size="5" face="Courier New" >
     <th> Ananya Kulshrestha (Co-President)</th>
     <th> Dhruv Gupta (Co-President)</th>
   </tr>
