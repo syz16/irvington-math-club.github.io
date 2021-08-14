@@ -22,6 +22,7 @@ Feel free to ping us if you have any questions!
     Email - kuttyanans@gmail.com </pre>
     </td></tr>
 </table>
+<h2 align="center">Dhruv Gupta (Co-President)</h2>
 <table cellpadding="0" cellspacing="15x" border="0" width="100%" align="center">
 <tr align="center">
   <td>
