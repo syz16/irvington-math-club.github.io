@@ -17,7 +17,7 @@ Feel free to ping us if you have any questions!
   <tr align="center"><th>Ananya Kulshrestha (Co-President)</th></tr>
   <tr align="center"><td>
     **Contact:** 
-    Facebook - Ainu Parivar
+    Messenger - Ainu Parivar
     Discord - Ananya_K#9383
     Email - kuttyanans@gmail.com
     </td></tr>
