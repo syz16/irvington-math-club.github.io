@@ -10,7 +10,7 @@ Feel free to ping us if you have any questions!
 
 <table cellpadding="0" cellspacing="15x" border="0" width="100%" align="center">
   <tr align="center">
-    <font size="2" face="Courier New" >
+    <font size="5" face="Courier New" >
     <th> Ananya Kulshrestha (Co-President)</th>
     <th> Dhruv Gupta (Co-President)</th>
   </tr>
@@ -39,7 +39,6 @@ Feel free to ping us if you have any questions!
   </tr>
 </table>
 
-<h4 align="center">Dhruv Gupta (Co-President)</h4>
 <table cellpadding="0" cellspacing="15x" border="0" width="100%" align="center">
 <tr align="center">
   <td>
