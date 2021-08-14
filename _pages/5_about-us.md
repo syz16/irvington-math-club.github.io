@@ -8,13 +8,19 @@ Welcome to Irvington Math Club! Below is our officer team along with their posit
 
 Feel free to ping us if you have any questions!
 
-<table cellpadding="0" cellspacing="0" border="0" width="100%" align="center">
+<table cellpadding="0" cellspacing="15x" border="0" width="100%" align="center">
 <tr align="center">
   <td >
     <img src="./assets/images/AnanyaHeadshotIMC.JPG" alt="Ananya Kulshrestha" width="400">
   </td>
 </tr>
   <tr align="center"><th>Ananya Kulshrestha (Co-President)</th></tr>
+  <tr align="center"><td>
+    **Contact:** 
+    Facebook - Ainu Parivar
+    Discord - Ananya_K#9383
+    Email - kuttyanans@gmail.com
+    </td></tr>
 <tr align="center">
   <td >
     <img src="./assets/images/DhruvHeadshotIMC.jpeg" alt="Dhruv Gupta" width="400">
