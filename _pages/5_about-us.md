@@ -24,20 +24,16 @@ Feel free to ping us if you have any questions!
 </tr>
   <tr align="center">
    <td>
-    <pre>
     <p> Messenger - Ainu Parivar</p>
     <p> Discord - Ananya_K#9383</p>
     <p> Instagram - N/A</p>
-    <p> Email - kuttyanans@gmail.com</p> 
-    </pre>
+    <p> Email - kuttyanans@gmail.com</p>
    </td>
     <td>
-    <pre>
     <p> Messenger - Dhruv Gupta</p>
     <p> Discord - dg575#1038</p>
     <p> Instagram - (To Be Filled)</p>
     <p> Email - dhruv575@gmail.com</p>
-    </pre>
     </td>
   </tr>
 </table>
