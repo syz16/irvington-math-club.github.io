@@ -8,7 +8,7 @@ Welcome to Irvington Math Club! Below is our officer team along with their posit
 
 Feel free to ping us if you have any questions!
 
-<h2 align="center">Ananya Kulshrestha (Co-President)</h2>
+<h3 align="center">Ananya Kulshrestha (Co-President)</h3>
 <table cellpadding="0" cellspacing="15x" border="0" width="100%" align="center">
 <tr align="center">
   <td>
@@ -22,7 +22,7 @@ Feel free to ping us if you have any questions!
     Email - kuttyanans@gmail.com </pre>
     </td></tr>
 </table>
-<h2 align="center">Dhruv Gupta (Co-President)</h2>
+<h3 align="center">Dhruv Gupta (Co-President)</h3>
 <table cellpadding="0" cellspacing="15x" border="0" width="100%" align="center">
 <tr align="center">
   <td>
