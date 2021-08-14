@@ -22,6 +22,7 @@ Feel free to ping us if you have any questions!
     Email - kuttyanans@gmail.com </pre>
     </td></tr>
 </table>
+
 <h4 align="center">Dhruv Gupta (Co-President)</h4>
 <table cellpadding="0" cellspacing="15x" border="0" width="100%" align="center">
 <tr align="center">
@@ -38,3 +39,33 @@ Feel free to ping us if you have any questions!
     </td></tr>
 </table>
 
+
+<h4 align="center">Jieun Lim (Vice President)</h4>
+<table cellpadding="0" cellspacing="15x" border="0" width="100%" align="center">
+<tr align="center">
+  <td>
+    <img src="./assets/images/JieunHeadshotIMC.jpeg" alt="Jieun Lim" width="400">
+  </td>
+</tr>
+  <tr align="center"><td>
+    <pre> <b>Contact:</b>
+    Messenger - Jieun Lim
+    Discord - infinityparadox#8914
+    Email - jieunlim07@gmail.com </pre>
+    </td></tr>
+</table>
+
+<h4 align="center">Aaryan Rustagi (Vice President)</h4>
+<table cellpadding="0" cellspacing="15x" border="0" width="100%" align="center">
+<tr align="center">
+  <td>
+    <img src="./assets/images/AaryanHeadshotIMC.jpeg" alt="Aaryan Rustagi" width="400">
+  </td>
+</tr>
+  <tr align="center"><td>
+    <pre> <b>Contact:</b>
+    Messenger - Aaryan Rustagi
+    Discord - Aaryan#3163
+    Email - rustagiaaryan@gmail.com </pre>
+    </td></tr>
+</table>
