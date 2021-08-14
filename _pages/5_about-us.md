@@ -24,10 +24,14 @@ Feel free to ping us if you have any questions!
 </tr>
   <tr align="center">
    <td>
-    <pre> <b>Contact:</b>
+    <pre> 
+    <font size="4" face="Roboto>
     Messenger - Ainu Parivar
+    
     Discord - Ananya_K#9383
+    
     Instagram - N/A
+    
     Email - kuttyanans@gmail.com </pre>
    </td>
     <td>
