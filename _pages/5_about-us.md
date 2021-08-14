@@ -14,7 +14,7 @@ Feel free to ping us if you have any questions!
     <img src="./assets/images/AnanyaHeadshotIMC.JPG" alt="Ananya Kulshrestha" width="400">
   </td>
 </tr>
-  <tr align="center"><h1>Ananya Kulshrestha (Co-President)</h1></tr>
+  <tr align="center"><th><font color="blue" face="Verdana, Geneva, sans-serif" size="+1">Ananya Kulshrestha (Co-President)</th></tr>
   <tr align="center"><td>
     <pre> <b>Contact:</b>
     Messenger - Ainu Parivar
