@@ -25,20 +25,19 @@ Feel free to ping us if you have any questions!
   <tr align="center">
    <td>
     <pre>
-    Messenger - Ainu Parivar
-    
-    Discord - Ananya_K#9383
-    
-    Instagram - N/A
-    
-    Email - kuttyanans@gmail.com </pre>
+    <p> Messenger - Ainu Parivar</p>
+    <p> Discord - Ananya_K#9383</p>
+    <p> Instagram - N/A</p>
+    <p> Email - kuttyanans@gmail.com</p> 
+    </pre>
    </td>
     <td>
-    <pre> <b>Contact:</b>
-    Messenger - Dhruv Gupta
-    Discord - dg575#1038
-    Instagram - (To Be Filled)
-    Email - dhruv575@gmail.com </pre>
+    <pre>
+    <p> Messenger - Dhruv Gupta</p>
+    <p> Discord - dg575#1038</p>
+    <p> Instagram - (To Be Filled)</p>
+    <p> Email - dhruv575@gmail.com</p>
+    </pre>
     </td>
   </tr>
 </table>
