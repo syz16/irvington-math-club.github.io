@@ -16,7 +16,7 @@ Feel free to ping us if you have any questions!
 </tr>
 <tr align="center">
   <td >
-    <img src="./assets/images/AnanyaHeadshotIMC.JPG" alt="Ananya Kulshrestha" width="400">
+    <img src="./assets/images/DhruvHeadshotIMC.jpeg" alt="Dhruv Gupta" width="400">
   </td>
 </tr>
 </table>
