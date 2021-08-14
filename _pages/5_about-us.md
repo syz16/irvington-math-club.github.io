@@ -11,8 +11,8 @@ Feel free to ping us if you have any questions!
 <font size="5" face="Roboto" >
 <table cellpadding="0" cellspacing="15x" border="0" width="100%" align="center">
   <tr align="center">
-    <th> Ananya Kulshrestha (Co-President)</th>
-    <th> Dhruv Gupta (Co-President)</th>
+    <td><b> Ananya Kulshrestha (Co-President)</b></td>
+    <td><b> Dhruv Gupta (Co-President)</b></td>
   </tr>
   <tr align="center">
   <td>
