@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "5/26 Math Bowl Review"
-date:   2021-5-23 22:37:20
+title:  "9/1 Intro Meeting Reminder"
+date:   2021-8-29 22:37:20
 categories: Events
 ---
 
