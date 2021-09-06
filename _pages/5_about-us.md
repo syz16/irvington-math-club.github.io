@@ -28,7 +28,6 @@ Feel free to ping us if you have any questions!
     Messenger - Ainu Parivar
     Discord - Ananya_K#9383
     Instagram - N/A
-    Email - kuttyanans@gmail.com
     </pre>
    </td>
     <td>
@@ -36,7 +35,6 @@ Feel free to ping us if you have any questions!
     Messenger - Dhruv Gupta
     Discord - dg575#1038
     Instagram - (To Be Filled)
-    Email - dhruv575@gmail.com
     </pre>
     </td>
   </tr>
@@ -62,7 +60,6 @@ Feel free to ping us if you have any questions!
     Messenger - Jieun Lim
     Discord - infinityparadox#8914
     Instagram - (To Be Filled)
-    Email - jieunlim07@gmail.com 
     </pre>
     </td>
     <td>
@@ -70,7 +67,6 @@ Feel free to ping us if you have any questions!
     Messenger - Aaryan Rustagi
     Discord - Aaryan#3163
     Instagram - (To Be Filled)
-    Email - rustagiaaryan@gmail.com 
     </pre>
     </td>
   </tr>
@@ -96,7 +92,6 @@ Feel free to ping us if you have any questions!
     Messenger - Priliu Liu
     Discord - Priyi#3296
     Instagram - (To Be Filled)
-    Email - hiprincetonliu@gmail.com 
     </pre>
     </td>
     <td>
@@ -104,7 +99,6 @@ Feel free to ping us if you have any questions!
     Messenger - Ojas Vatsyayan
     Discord - Ojas#4663
     Instagram - (To Be Filled)
-    Email - ojasvatsyayan@gmail.com 
     </pre>
     </td>
   </tr>
@@ -130,7 +124,6 @@ Feel free to ping us if you have any questions!
     Messenger - Akshaj Gupta
     Discord - Akshaj#5315
     Instagram - (To Be Filled)
-    Email - aksh8work@gmail.com 
     </pre>
     </td>
     <td>
@@ -138,7 +131,6 @@ Feel free to ping us if you have any questions!
     Messenger - Prisha Jain
     Discord - Prisha#8858
     Instagram - (To Be Filled)
-    Email - prisha.chess@gmail.com
     </pre>
     </td>
   </tr>
@@ -160,7 +152,6 @@ Feel free to ping us if you have any questions!
     Messenger - Anoushka Iyer
     Discord - Anoushka#7415
     Instagram - (To Be Filled)
-    Email - anoushkasiyer@gmail.com
     </pre>
     </td>
   </tr>
