@@ -28,6 +28,7 @@ Feel free to ping us if you have any questions!
     Messenger - Ainu Parivar
     Discord - Ananya_K#9383
     Instagram - N/A
+    Email - anakul199@fusdk12.net
     </pre>
    </td>
     <td>
@@ -35,6 +36,7 @@ Feel free to ping us if you have any questions!
     Messenger - Dhruv Gupta
     Discord - dg575#1038
     Instagram - (To Be Filled)
+    Email - dhrgup544@fusdk12.net
     </pre>
     </td>
   </tr>
@@ -60,6 +62,7 @@ Feel free to ping us if you have any questions!
     Messenger - Jieun Lim
     Discord - infinityparadox#8914
     Instagram - (To Be Filled)
+    Email - jielim981@fusdk12.net
     </pre>
     </td>
     <td>
@@ -67,6 +70,7 @@ Feel free to ping us if you have any questions!
     Messenger - Aaryan Rustagi
     Discord - Aaryan#3163
     Instagram - (To Be Filled)
+    Email - aarrus149@fusdk12.net
     </pre>
     </td>
   </tr>
@@ -92,6 +96,7 @@ Feel free to ping us if you have any questions!
     Messenger - Priliu Liu
     Discord - Priyi#3296
     Instagram - (To Be Filled)
+    Email - priliu314@fusdk12.net
     </pre>
     </td>
     <td>
@@ -99,6 +104,7 @@ Feel free to ping us if you have any questions!
     Messenger - Ojas Vatsyayan
     Discord - Ojas#4663
     Instagram - (To Be Filled)
+    Email - ojavat991@fusdk12.net
     </pre>
     </td>
   </tr>
@@ -124,6 +130,7 @@ Feel free to ping us if you have any questions!
     Messenger - Akshaj Gupta
     Discord - Akshaj#5315
     Instagram - (To Be Filled)
+    Email - (TBF)
     </pre>
     </td>
     <td>
@@ -131,6 +138,7 @@ Feel free to ping us if you have any questions!
     Messenger - Prisha Jain
     Discord - Prisha#8858
     Instagram - (To Be Filled)
+    Email - (TBF)
     </pre>
     </td>
   </tr>
@@ -152,6 +160,7 @@ Feel free to ping us if you have any questions!
     Messenger - Anoushka Iyer
     Discord - Anoushka#7415
     Instagram - (To Be Filled)
+    Email - (TBF)
     </pre>
     </td>
   </tr>
