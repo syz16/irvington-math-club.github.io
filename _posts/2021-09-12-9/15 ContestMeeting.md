@@ -4,7 +4,6 @@ title:  "9/15 Contest Meeting"
 date:   2021-09-12 22:37:20
 categories: Events
 ---
-9/15 Contest Meeting
 
 Bonjour les amis 🥐,
 
