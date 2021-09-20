@@ -18,5 +18,5 @@ Many of the teachers will be offering extra credit for the various lunch contest
 AMCs this year will be held online, after school on November 10th (for the AMC A) and November 16th (for the AMC B). Below are the directions for registration.
 **Note: In order to register for the AMC 10, you must be in 10th grade or below. You cannot register for AMC 10A and 12A OR the AMC 10B and 12B.** However, you can take any other combination.
 1. First go to [irvingtonmath.club/shop](https://ihsvikings.org/shop/math-club) and pick the contest to register for. Add it to the cart. Fill out any information that the website prompts you to do. Then purchase the pass. Make sure to **save your receipt** after you make the purchase, in pdf form only!
-2. Next fill out the google form [irvingtonmath.club/amcreg](htpps://irvingtonmath.club/amcreg) with all the required information and upload your receipt there. 
+2. Next fill out the google form [irvingtonmath.club/amcreg](https://irvingtonmath.club/amcreg) with all the required information and upload your receipt there. 
 3. You're done! See you one AMC contest dates which will occur on Zoom (Note: Work will be submitted on Google Classroom).
